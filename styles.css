@@ -1,0 +1,35 @@
+* {
+    font-family: 'Helvetica', sans-serif;
+}
+
+.main {
+    text-align: center
+}
+
+.links {
+    text-align: center;
+    font-size: large;
+}
+
+.links a {
+    display: inline-block;
+    background-color: pink;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 5px;
+}
+
+.recipe-name {
+    text-align: center;
+    font-weight: bold;
+}
+
+.img-parent {
+    text-align: center;
+}
+
+.header {
+    color: purple;
+}
